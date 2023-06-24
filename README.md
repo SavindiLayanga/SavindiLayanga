@@ -5,6 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Savindi Layanga</h1>
 <h3 align="center">Software Engineer</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnanodegree.alxafrica.com%2Fdemand-for-web-developers%2F&psig=AOvVaw04z5I9ixWZSEi1al9bcUJM&ust=1687681292735000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjbhvK82_8CFQAAAAAdAAAAABAE"</img>
 
 - 🔭 I’m currently working on [MyPortFolio](https://github.com/SavindiLayanga/MyPortFolio.git)
 
