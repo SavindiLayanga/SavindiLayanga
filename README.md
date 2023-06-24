@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Savindi Layanga</h1>
 <h3 align="center">Software Engineer</h3>
-<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg">
+<img src="https://img.freepik.com/free-vector/low-code-development-concept-illustration_114360-7294.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.upskillist.com%2F10-web-designer-skills-to-turn-you-into-a-terrific-web-designer%2F&psig=AOvVaw04z5I9ixWZSEi1al9bcUJM&ust=1687681292735000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKjbhvK82_8CFQAAAAAdAAAAABAR)">
 
 - 🔭 I’m currently working on [MyPortFolio](https://github.com/SavindiLayanga/MyPortFolio.git)
 
