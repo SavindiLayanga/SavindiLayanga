@@ -1,15 +1,23 @@
+<img src="">
 <h1 align="center">Hi 👋, I'm Savindi Layanga</h1>
 <h3 align="center">Software Engineer</h3>
 
+<p align="left"> <img src="[[https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20views&color=0e75b6&style=flat](https://pin.it/5JkT5Pj)](https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…IZWx7IZXVtlzb1QXAwOkLHobtmdomM0B88zuMeqY&usqp=CAU)" alt="savindilayanga" /> </p>
+
 - 🔭 I’m currently working on [MyPortFolio](https://github.com/SavindiLayanga/MyPortFolio.git)
-<p align="left"> <img src="https://in.pinterest.com/pin/923519467330607876/" alt="savindilayanga" /> </p>
 
+- 🌱 I’m currently learning **html...**
+
+- 📫 How to reach me **savindilayanga@gmail.com**
+
+- ⚡ Fun fact **I ThiNk I am FuNny**
+<br> <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savindilayanga" alt="savindilayanga" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/savindi layanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savindi layanga" height="30" width="40" /></a>
 <a href="https://fb.com/savindi layanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="savindi layanga" height="30" width="40" /></a>
+<a href="https://instagram.com/savi_layanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="savi_layanga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
