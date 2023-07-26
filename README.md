@@ -1,8 +1,7 @@
-<img src="">
 <h1 align="center">Hi 👋, I'm Savindi Layanga</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="//*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/div[2]/div/a/img[1]" alt="savindilayanga" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20views&color=0e75b6&style=flat" alt="savindilayanga" /> </p>
 
 - 🔭 I’m currently working on [MyPortFolio](https://github.com/SavindiLayanga/MyPortFolio.git)
 
@@ -11,7 +10,7 @@
 - 📫 How to reach me **savindilayanga@gmail.com**
 
 - ⚡ Fun fact **I ThiNk I am FuNny**
-<br> <br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/savindi layanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="savindi layanga" height="30" width="40" /></a>
