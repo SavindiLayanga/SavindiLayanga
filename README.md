@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Savindi Layanga</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="[[https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20views&color=0e75b6&style=flat](https://pin.it/5JkT5Pj)](https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…IZWx7IZXVtlzb1QXAwOkLHobtmdomM0B88zuMeqY&usqp=CAU)" alt="savindilayanga" /> </p>
+<p align="left"> <img src="//*[@id="Sva75c"]/div[2]/div[2]/div[2]/div[2]/c-wiz/div/div/div/div[2]/div/a/img[1]" alt="savindilayanga" /> </p>
 
 - 🔭 I’m currently working on [MyPortFolio](https://github.com/SavindiLayanga/MyPortFolio.git)
 
