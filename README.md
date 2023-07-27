@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Savindi Layanga</h1>
-<h3 align="center">Software Engineer</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+👋,+I'm+Savindi+Layanga;Software+Engineer+in+Sri+Lanka)](https://git.io/typing-svg)
+<hr>
+    
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20views&color=0e75b6&style=flat" alt="savindilayanga" /> </p>
 
 - 🔭 I’m currently working on [MyPortFolio](https://github.com/SavindiLayanga/MyPortFolio.git)
