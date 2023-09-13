@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7AA18&center=true&vCenter=true&repeat=false&width=435&lines=Hey+%E2%9C%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14BACA&center=true&repeat=false&width=435&lines=Hey+%E2%9C%8C)](https://git.io/typing-svg)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F1F788&center=true&vCenter=true&width=435&lines=I'm+Savindi+Layanga;Software+Engineer+in+Sri+Lanka)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7BF78A&center=true&vCenter=true&width=435&lines=I'm+Savindi+Layanga;Software+Engineer+in+Sri+Lanka)](https://git.io/typing-svg)
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20views&color=0e75b6&style=flat" alt="savindilayanga" /> </p>
 
