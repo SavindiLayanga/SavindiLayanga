@@ -1,4 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&size=30&pause=1000&color=F747BE&center=true&vCenter=true&width=440&lines=Hey++I'm+SAVINDI+LAYANGA;Software+Engineer+in+Sri+Lanka+" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7AA18&center=true&vCenter=true&repeat=false&width=435&lines=Hey+%E2%9C%8C)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F1F788&center=true&vCenter=true&width=435&lines=I'm+Savindi+Layanga;Software+Engineer+in+Sri+Lanka)](https://git.io/typing-svg)
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20views&color=0e75b6&style=flat" alt="savindilayanga" /> </p>
 
