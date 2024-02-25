@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [RestoRise-Web](https://github.com/SavindiLayanga/RestoRise-Web.git)
 
-- 🌱 I’m currently learning **html...**
+- 🌱 I’m currently learning **Spring Boot...**
 
 - 📫 How to reach me **savindilayanga@gmail.com**
 
