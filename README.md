@@ -1,78 +1,54 @@
-<h2 align="center">
-  Hey there! 👋
-    <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7BF78A&center=true&vCenter=true&width=500&lines=I'm+Savindi+Layanga; Software+Engineer+in+Sri+Lanka" alt="Typing SVG">
-  </a>
-</p>
-</h2>
-
 <p align="center">
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20views&color=0e75b6&style=flat" alt="savindilayanga" /> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=50&section=header&text=Savindi%20Layanga&fontSize=10&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-Funny-brightgreen">
-  <img src="https://img.shields.io/github/followers/SavindiLayanga?style=social">
-  <img src="https://img.shields.io/github/stars/SavindiLayanga?style=social">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6cnR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4bmR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
 </p>
-
----
-
-### 👩‍💻 About Me
-
-- 🌱 Currently learning **Spring Boot**
-- 🔭 Working on **[RestoRise-Web](https://github.com/SavindiLayanga/RestoRise-Web)**
-- 📫 Reach me at **[savindilayanga@gmail.com](mailto:savindilayanga@gmail.com)**
-- ⚡ Fun fact: _ThiNk I am FuNny_
-
----
-
-### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/savindi-layanga-269589264" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100082799557221" target="_blank"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/savindilayanga" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%26+Database+Enthusiast;Building+CloudServe+%2B+auvishWeb" alt="Typing SVG" />
 </p>
-
----
-
-### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.shields.io/github/followers/SavindiLayanga?label=Followers&style=flat-square&color=333333" />
+  <img src="https://img.shields.io/github/stars/SavindiLayanga?label=Stars&style=flat-square&color=333333" />
+  <img src="https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20Views&color=000000&style=flat-square" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🧬 About Me
+A dedicated Software Engineering student focused on building clean, efficient, and scalable digital solutions. I specialize in **Database Architecture** and **System Design**.
 
+- 🚀 **Building:** [CloudServe](https://github.com/SavindiLayanga/CloudServe) — *On-demand local services platform*
+- 🛠️ **Project:** [auvishWeb](https://github.com/SavindiLayanga/auvishWeb) — *E-commerce clothing store system*
+- 🧠 **Learning:** Advanced Spring Boot & Database Optimization
+- 🎨 **Aesthetic:** Minimalist | Monochrome | High-Contrast
+
+---
+
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SavindiLayanga&show_icons=true&theme=radical" alt="Savindi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavindiLayanga&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
-
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SavindiLayanga&theme=radical&column=4&margin-w=15&margin-h=15" alt="Trophy">
+  <img src="https://github-readme-stats.vercel.app/api?username=SavindiLayanga&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff&icon_color=fff&hide_border=false&border_color=fff" width="400" />
 </p>
 
 ---
 
-### 🧩 Fun & Creativity Zone
-
-> "Coding is fun! Add a quote or something unique here."
-
----
-
+### 📫 Connect with me
+<p align="center">
+  <a href="https://linkedin.com/in/savindilayanga"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:savindilayanga@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://fiverr.com/savindilayanga"><img src="https://img.shields.io/badge/Fiverr-000?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+</p>
