@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="..." />
+  <img src="https://github.com/SavindiLayanga/SavindiLayanga/blob/main/Gemini_Generated_Image_okntlookntlooknt.png?raw=true" />
 </p>
 
 <p align="right">
