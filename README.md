@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="..." />
+</p>
+
+<p align="right">
   <img src="https://img.shields.io/github/followers/SavindiLayanga?label=Followers&style=flat-square&color=333333" />
   <img src="https://img.shields.io/github/stars/SavindiLayanga?label=Stars&style=flat-square&color=333333" />
   <img src="https://komarev.com/ghpvc/?username=savindilayanga&label=Profile%20Views&color=000000&style=flat-square" />
