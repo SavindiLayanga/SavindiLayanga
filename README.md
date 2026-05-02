@@ -18,7 +18,7 @@
 I am Savindi Layanga, I am a software engineering student currently pursuing a BSc (Hons) in Web and Mobile Application Development at Esoft metro campus. My focus is currently on frontend development. However, my future ambition is to become a full Stack developer.
 
 ### Status
-💻 Coding my next big idea - SkillNova
+💻 Coding my next big idea - SkillNova <br>
 🚀 Building Cloudserve Nexus
 
 ### 🌐 Socials:
