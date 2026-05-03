@@ -19,7 +19,7 @@ I am Savindi Layanga, I am a software engineering student currently pursuing a B
 
 ### 📊 Status
 💻 Coding my next big idea - SkillNova <br>
-🚀 Building Cloudserve Nexus
+🚀 Building - Cloudserve Nexus
 
 ### 🏆 GitHub Trophies
 <p align="center">
